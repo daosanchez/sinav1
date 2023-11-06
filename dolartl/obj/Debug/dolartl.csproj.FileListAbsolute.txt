@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\bin\Debug\dolartl.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\bin\Debug\dolartl.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\bin\Debug\dolartl.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\dolartl\dolartl\obj\Debug\dolartl.pdb
